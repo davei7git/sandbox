@@ -9,3 +9,5 @@ git status
 git add .
 git commit -m 'msg'
 git push
+
+git reset --hard origin/branch
